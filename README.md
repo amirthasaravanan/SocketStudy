@@ -38,7 +38,7 @@ To perform a study on Socket Programming
 •	Once a connection is establi
 •	shed, servers can send and receive data using send() and recv().
 
-## Client –Server Operations
+## Client –Server Operations 
 
 Clients create a socket using socket() and connect to a server using connect().
 After establishing a connection, clients can send and receive data using send() and recv().
